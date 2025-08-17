@@ -1,0 +1,1 @@
+A simple digital photo frame that pulls images from a Google Drive folder and randomly cycles through the collection.

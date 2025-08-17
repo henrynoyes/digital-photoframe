@@ -1,0 +1,4 @@
+auth/
+*.log
+
+.DS_Store
